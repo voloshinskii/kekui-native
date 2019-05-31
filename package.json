@@ -1,0 +1,51 @@
+{
+  "name": "@voloshinskii/kekui-native",
+  "version": "1.0.6",
+  "description": "kekui for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "storybook start"
+  },
+  "keywords": [
+    "react-native",
+    "react component",
+    "react native component",
+    "react",
+    "react native",
+    "mobile",
+    "ios",
+    "android",
+    "ui"
+  ],
+  "author": "Maxim Voloshinskii",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/plugin-proposal-class-properties": "^7.4.4",
+    "@babel/plugin-proposal-object-rest-spread": "^7.4.4",
+    "@babel/polyfill": "^7.4.4",
+    "@babel/preset-env": "^7.4.5",
+    "@storybook/addon-actions": "^5.0.11",
+    "@storybook/addon-links": "^5.0.11",
+    "@storybook/addons": "^5.0.11",
+    "@storybook/react-native": "^5.1.0-rc.1",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.6",
+    "babel-plugin-react-native-web": "^0.11.4",
+    "babel-runtime": "^6.26.0",
+    "file-loader": "^3.0.1",
+    "metro-react-native-babel-preset": "^0.51.1",
+    "react-art": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-native-web": "^0.11.4",
+    "react-styleguidist": "^9.1.2",
+    "webpack": "^4.32.2"
+  },
+  "dependencies": {
+    "core-js": "^3.1.2",
+    "dotenv": "^8.0.0",
+    "lodash": "^4.17.11",
+    "prop-types": "^15.7.2"
+  }
+}
